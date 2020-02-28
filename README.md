@@ -1,10 +1,10 @@
-# # 暨南大學 資工系 1082邏輯設計與實驗（一） 作業一
+# 暨南大學 資工系 1082邏輯設計與實驗（一） 作業一
 
-### 內容：翻譯[History-computer Relay computers of George Stibitz](https://history-computer.com/ModernComputer/Relays/Stibitz.html)一文
+#### 內容：翻譯[History-computer Relay computers of George Stibitz](https://history-computer.com/ModernComputer/Relays/Stibitz.html)一文
 
-### 學生：108321032 王廷郡
+#### 學生：108321032 王廷郡
 
-# ## George Stibitz的中繼計算機
+# George Stibitz的中繼計算機
 
 貝爾實驗室在1925年成立，其作為貝爾系統的基礎研究設施。這設施的成立成為了物理、化學和其他現代科學的基礎研究以及令人興奮的研究的同義詞。在這個令人興奮的地方在接下來的數十年間完成了大量讓許多科學家取得諾貝爾獎的研究。許多在資訊科學領域的研究也在這裡完成，這裡僅提及第一個有二極管的邏輯架構（1942）、點晶體管（1947）、第一個完整的晶體管計算機（TRADIC,1955）、第一個數據機（1960）、第一個單晶片的32位元處理器（1980）、作業系統UNIX（1969）、程式語言C以及C++（1983）等等。
 
