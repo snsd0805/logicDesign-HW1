@@ -52,3 +52,51 @@ Stibitz進一步發展了遠端、複數存取計算機的想法。在1940年9�
 ![](src/Screenshot-20200229222447-484x489.png)
 
 貝爾實驗室稱這個系統為「二五進制記法」因為繼電器分別有兩個權重：1和5。實際上，這不是這些數字編碼的組合。而是一個七位元，混合著十進制的編碼。所有貝爾實驗室的繼電計算機都是以十進制進行運算。一個特殊的電路每次啟動兩個繼電器，而且只能是兩個。另外一個電路可以確認每個群組只有啟動一個繼電器且只能有一個，這避免了兩個分離的錯誤互相抵銷，雖然仍然有一些異常組合無法被檢測到。
+
+
+
+## 補充單字
+
++ relay：中繼、接力、驛站
+
++ incorporated：合併
+
++ frontiers：邊疆、邊境
+
++ diodes：二極管
+
++ transistor；晶體管
+
++ modem：調製機、數據機
+
++ assemble：組裝
+
++ tobacco：菸草
+
++ interim：臨時、過渡時期
+
++ amplifier：擴音機、擴大器
+
++ champagne：香檳酒、香檳色的
+
++ foreshadowed：預言
+
++ interpolator：內插器
+
++ interpolated內插
+
++ aiming：瞄準
+
++ tracking：追蹤
+
++ antiaircraft：防空的
+
++ sophisticated：複雜的、尖端的
+
++ bi-quinary：二五進制記法
+
+
+
+
+
+
